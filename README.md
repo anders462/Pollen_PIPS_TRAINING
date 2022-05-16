@@ -2,7 +2,7 @@
 
 ## PIP-1 Anti Gaming Proposal in the Pollen Mobile Network
 
-[Adding Cheatsheat](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+[Cheatsheat](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
 ### Summary
 
